@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Découvrir mes intégrations et contributions](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-ERRA.ME-A855F7?style=for-the-badge&labelColor=241334)](https://erra.me)
+[![Découvrir mes projets sur erra.me](https://img.shields.io/badge/🌐_Découvrir_mes_projets-erra.me-A855F7?style=for-the-badge&labelColor=241334)](https://erra.me)
 
 *Intégrations, cartes Lovelace et contributions / Integrations, Lovelace cards and contributions*
 
@@ -28,11 +28,11 @@
 
 **EN:** If you find my integrations and contributions useful and would like to support their development and maintenance, you can buy me a coffee on Ko-fi.
 
-<p align="center">
-  <a href="https://ko-fi.com/aurorevgn">
-    <img src="https://storage.ko-fi.com/cdn/kofi4.png?v=3" alt="Support me on Ko-fi" height="55">
-  </a>
-</p>
+<div align="center">
+
+[![Me soutenir sur Ko-fi](https://img.shields.io/badge/☕_Me_soutenir-Ko--fi-A855F7?style=for-the-badge&labelColor=241334&logo=ko-fi&logoColor=white)](https://ko-fi.com/aurorevgn)
+
+</div>
 
 ## 🏠 Mes intégrations Home Assistant / My Home Assistant integrations
 
