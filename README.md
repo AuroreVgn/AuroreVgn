@@ -20,9 +20,9 @@
 
 ## ☕ Soutenir mes projets / Support my projects
 
-Si mes intégrations et contributions vous sont utiles et que vous souhaitez soutenir leur développement et leur maintenance, vous pouvez m'offrir un café sur Ko-fi.
+**FR :** Si mes intégrations et contributions vous sont utiles et que vous souhaitez soutenir leur développement et leur maintenance, vous pouvez m'offrir un café sur Ko-fi.
 
-If you find my integrations and contributions useful and would like to support their development and maintenance, you can buy me a coffee on Ko-fi.
+**EN:** If you find my integrations and contributions useful and would like to support their development and maintenance, you can buy me a coffee on Ko-fi.
 
 <p align="center">
   <a href="https://ko-fi.com/aurorevgn">
