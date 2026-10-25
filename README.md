@@ -30,7 +30,7 @@
 
 **Cartes Lovelace / Lovelace cards :** [Quitoque](https://github.com/AuroreVgn/quitoque_card) · [JBL](https://github.com/AuroreVgn/JBL_ProScan_card) · [EDF](https://github.com/AuroreVgn/edf-zen-flex-card) · [WiFiTIC](https://github.com/AuroreVgn/wifiTIC_card)
 
-La carte Somfy est fournie par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy card is provided by developpeurbox.
+La carte Somfy est fournie par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy card is provided by [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card).
 
 ## 🤝 Contributions / Contributions
 
