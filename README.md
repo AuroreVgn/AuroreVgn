@@ -2,11 +2,11 @@
 
 # 👋 Bonjour, je suis Aurore ! / Hi, I'm Aurore!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=116B71&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
 
 **Home Assistant · Open Source · France**
 
-[![Mes projets sur erra.me](https://img.shields.io/badge/🌐_MES_PROJETS-ERRA.ME-0B1220?style=for-the-badge&labelColor=0B1220&color=38BDF8)](https://erra.me)
+[![Mes projets sur erra.me](https://img.shields.io/badge/🌐_MES_PROJETS-ERRA.ME-A855F7?style=for-the-badge&labelColor=241334&color=A855F7)](https://erra.me)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Découvrir mes intégrations et contributions](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-ERRA.ME-116B71?style=for-the-badge&labelColor=0B1220)](https://erra.me)
+[![Découvrir mes intégrations et contributions](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-ERRA.ME-A855F7?style=for-the-badge&labelColor=241334)](https://erra.me)
 
 *Intégrations, cartes Lovelace et contributions / Integrations, Lovelace cards and contributions*
 
