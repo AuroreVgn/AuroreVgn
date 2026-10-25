@@ -61,7 +61,7 @@
 ## 📈 Statistiques GitHub / GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AuroreVgn&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=AuroreVgn&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AuroreVgn&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&border_color=00000000" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=AuroreVgn&theme=github-dark-blue&hide_border=true&background=00000000&border=00000000" alt="GitHub streak" />
 </div>
 
