@@ -8,7 +8,7 @@
 
 **FR :** Je développe des intégrations et cartes Lovelace pour Home Assistant afin de connecter des équipements, simplifier le quotidien et prolonger la vie du matériel.
 
-**EN:** I develop Home Assistant integrations and Lovelace cards to connect devices, simplify everyday tasks and extend the life of existing hardware.
+**EN :** I develop Home Assistant integrations and Lovelace cards to connect devices, simplify everyday tasks and extend the life of existing hardware.
 
 ## 🌐 Mon site web / My website
 
@@ -24,7 +24,7 @@
 
 **FR :** Si mes intégrations et contributions vous sont utiles et que vous souhaitez soutenir leur développement et leur maintenance, vous pouvez m'offrir un café sur Ko-fi.
 
-**EN:** If you find my integrations and contributions useful and would like to support their development and maintenance, you can buy me a coffee on Ko-fi.
+**EN :** If you find my integrations and contributions useful and would like to support their development and maintenance, you can buy me a coffee on Ko-fi.
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ## 🏠 Mes intégrations Home Assistant / My Home Assistant integrations
 
-| Projet | Description FR / EN | Intégration | Carte Lovelace | Doc  |
+| Projet | Description FR / EN | Intégration | Carte Lovelace | Documentation |
 |---|---|---|---|---|
 | 🔐 **Somfy Protexial & Protexiom** | Contrôle local des alarmes / Local alarm control | [GitHub](https://github.com/AuroreVgn/somfy-protexial) | [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card) | [Wiki](https://github.com/AuroreVgn/somfy-protexial/wiki) / [Forum HACF](https://forum.hacf.fr/t/integration-custom-centrale-somfy-protexial/23589) |
 | 🥕 **Quitoque** | Recettes et calendrier / Recipes and calendar | [GitHub](https://github.com/AuroreVgn/quitoque) | [GitHub](https://github.com/AuroreVgn/quitoque_card) | [Forum HACF](https://forum.hacf.fr/t/integration-quitoque-box-a-cuisiner/83117) |
