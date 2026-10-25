@@ -16,7 +16,7 @@
 
 **EN:** I develop Home Assistant integrations and Lovelace cards to connect devices, simplify everyday tasks and extend the life of existing hardware.
 
-## 🌐 erra.me — Mes projets / My projects
+## 🌐 Mon site web / My website
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 </div>
 
-## ☕ Soutenir mes projets / Support my projects
+## ☕ Me soutenir / Support my work
 
 **FR :** Si mes intégrations et contributions vous sont utiles et que vous souhaitez soutenir leur développement et leur maintenance, vous pouvez m'offrir un café sur Ko-fi.
 
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-## 🏠 Mes projets / My projects
+## 🏠 Mes intégrations Home Assistant / My Home Assistant integrations
 
 | Projet | Description FR / EN | Intégration | Carte Lovelace | Forum HACF (in French) |
 |---|---|---|---|---|
