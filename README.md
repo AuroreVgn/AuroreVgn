@@ -6,7 +6,7 @@
 
 **Home Assistant · Open Source · France**
 
-[![Site web](https://img.shields.io/badge/Site-erra.me-38BDF8?style=for-the-badge)](https://erra.me)
+[![Mes projets sur erra.me](https://img.shields.io/badge/🌐_MES_PROJETS-ERRA.ME-0B1220?style=for-the-badge&labelColor=0B1220&color=38BDF8)](https://erra.me)
 [![GitHub](https://img.shields.io/badge/GitHub-AuroreVgn-181717?style=for-the-badge&logo=github)](https://github.com/AuroreVgn)
 [![Ko-fi](https://img.shields.io/badge/Soutenir-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi)](https://ko-fi.com/aurorevgn)
 
@@ -17,6 +17,20 @@
 **FR :** Je développe des intégrations et cartes Lovelace pour Home Assistant afin de connecter des équipements, simplifier le quotidien et prolonger la vie du matériel.
 
 **EN:** I develop Home Assistant integrations and Lovelace cards to connect devices, simplify everyday tasks and extend the life of existing hardware.
+
+## 🌐 Découvrir mes projets sur erra.me / Explore my projects
+
+<div align="center">
+
+### [🏠 erra.me — Home Assistant & Smart Home Projects](https://erra.me)
+
+[![Découvrir mes intégrations et contributions](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-INTÉGRATIONS_•_CARTES_•_CONTRIBUTIONS-38BDF8?style=for-the-badge&labelColor=0B1220&color=116B71)](https://erra.me)
+
+**FR :** Retrouvez toutes mes intégrations, cartes Lovelace, contributions et leurs actualités sur **[erra.me](https://erra.me)**.
+
+**EN:** Discover all my integrations, Lovelace cards, contributions and project updates on **[erra.me](https://erra.me)**.
+
+</div>
 
 ## ☕ Soutenir mes projets / Support my projects
 
