@@ -18,6 +18,18 @@
 
 **EN:** I develop Home Assistant integrations and Lovelace cards to connect devices, simplify everyday tasks and extend the life of existing hardware.
 
+## ☕ Soutenir mes projets / Support my projects
+
+Si mes intégrations et contributions vous sont utiles et que vous souhaitez soutenir leur développement et leur maintenance, vous pouvez m'offrir un café sur Ko-fi.
+
+If you find my integrations and contributions useful and would like to support their development and maintenance, you can buy me a coffee on Ko-fi.
+
+<p align="center">
+  <a href="https://ko-fi.com/aurorevgn">
+    <img src="https://storage.ko-fi.com/cdn/kofi4.png?v=3" alt="Support me on Ko-fi" height="55">
+  </a>
+</p>
+
 ## 🏠 Mes projets / My projects
 
 | Projet | Description FR / EN | Intégration | Carte Lovelace | Forum HACF (in French) |
