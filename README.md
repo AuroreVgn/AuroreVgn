@@ -2,8 +2,6 @@
 
 <img width="100%" src="assets/erra-banner-github.webp" alt="Maison connectée sous les aurores boréales — bannière erra.me" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
-
 </div>
 
 ## 🇫🇷 À propos / 🇬🇧 About
@@ -44,7 +42,7 @@
 | ⚡ **EDF Zen Flex** | Tarifs et calendrier / Electricity tariffs | [GitHub](https://github.com/AuroreVgn/edf-zen-flex) | [GitHub](https://github.com/AuroreVgn/edf-zen-flex-card) | [HACF](https://forum.hacf.fr/t/gestion-jours-sobriete-edf-zen-flex-dans-ha/34944/18) |
 | 📊 **WiFiTIC** | Compteur Linky MQTT/REST / Linky meter | [GitHub](https://github.com/AuroreVgn/wifiTIC) | [GitHub](https://github.com/AuroreVgn/wifiTIC_card) | [HACF](https://forum.hacf.fr/t/recupere-infos-du-module-wifitic-de-carte-electronique/42821/7) |
 
-*La carte Lovelace Somfy est développée par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy Lovelace card is developed by developpeurbox.*
+*La carte Lovelace Somfy est développée par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy Lovelace card is developed by [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card).*
 
 ## 📈 Statistiques GitHub / GitHub stats
 
