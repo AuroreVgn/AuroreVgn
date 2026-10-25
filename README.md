@@ -34,13 +34,13 @@
 
 ## 🏠 Mes intégrations Home Assistant / My Home Assistant integrations
 
-| Projet | Description FR / EN | Intégration | Carte Lovelace | Forum HACF (in French) |
+| Projet | Description FR / EN | Intégration | Carte Lovelace | Doc  |
 |---|---|---|---|---|
-| 🔐 **Somfy Protexial & Protexiom** | Contrôle local des alarmes / Local alarm control | [GitHub](https://github.com/AuroreVgn/somfy-protexial) | [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card) | [HACF](https://forum.hacf.fr/t/integration-custom-centrale-somfy-protexial/23589) |
-| 🥕 **Quitoque** | Recettes et calendrier / Recipes and calendar | [GitHub](https://github.com/AuroreVgn/quitoque) | [GitHub](https://github.com/AuroreVgn/quitoque_card) | [HACF](https://forum.hacf.fr/t/integration-quitoque-box-a-cuisiner/83117) |
-| 🐠 **JBL ProScan** | Analyses de l'eau / Water testing | [GitHub](https://github.com/AuroreVgn/JBL_ProScan) | [GitHub](https://github.com/AuroreVgn/JBL_ProScan_card) | [HACF](https://forum.hacf.fr/t/integration-jbl-proscan-test-deau-pour-aquariums-et-bassins/83118) |
-| ⚡ **EDF Zen Flex** | Tarifs et calendrier / Electricity tariffs | [GitHub](https://github.com/AuroreVgn/edf-zen-flex) | [GitHub](https://github.com/AuroreVgn/edf-zen-flex-card) | [HACF](https://forum.hacf.fr/t/gestion-jours-sobriete-edf-zen-flex-dans-ha/34944/18) |
-| 📊 **WiFiTIC** | Compteur Linky MQTT/REST / Linky meter | [GitHub](https://github.com/AuroreVgn/wifiTIC) | [GitHub](https://github.com/AuroreVgn/wifiTIC_card) | [HACF](https://forum.hacf.fr/t/recupere-infos-du-module-wifitic-de-carte-electronique/42821/7) |
+| 🔐 **Somfy Protexial & Protexiom** | Contrôle local des alarmes / Local alarm control | [GitHub](https://github.com/AuroreVgn/somfy-protexial) | [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card) | [Wiki](https://github.com/AuroreVgn/somfy-protexial/wiki) / [Forum HACF](https://forum.hacf.fr/t/integration-custom-centrale-somfy-protexial/23589) |
+| 🥕 **Quitoque** | Recettes et calendrier / Recipes and calendar | [GitHub](https://github.com/AuroreVgn/quitoque) | [GitHub](https://github.com/AuroreVgn/quitoque_card) | [Forum HACF](https://forum.hacf.fr/t/integration-quitoque-box-a-cuisiner/83117) |
+| 🐠 **JBL ProScan** | Analyses de l'eau / Water testing | [GitHub](https://github.com/AuroreVgn/JBL_ProScan) | [GitHub](https://github.com/AuroreVgn/JBL_ProScan_card) | [Forum HACF](https://forum.hacf.fr/t/integration-jbl-proscan-test-deau-pour-aquariums-et-bassins/83118) |
+| ⚡ **EDF Zen Flex** | Tarifs et calendrier / Electricity tariffs | [GitHub](https://github.com/AuroreVgn/edf-zen-flex) | [GitHub](https://github.com/AuroreVgn/edf-zen-flex-card) | [Forum HACF](https://forum.hacf.fr/t/gestion-jours-sobriete-edf-zen-flex-dans-ha/34944/18) |
+| 📊 **WiFiTIC** | Compteur Linky MQTT/REST / Linky meter | [GitHub](https://github.com/AuroreVgn/wifiTIC) | [GitHub](https://github.com/AuroreVgn/wifiTIC_card) | [Forum HACF](https://forum.hacf.fr/t/recupere-infos-du-module-wifitic-de-carte-electronique/42821/7) |
 
 *La carte Lovelace Somfy est développée par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy Lovelace card is developed by [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card).*
 
