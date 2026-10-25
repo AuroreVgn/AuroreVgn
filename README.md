@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Aurore ! / Hi, I'm Aurore!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:241334,50:6D28D9,100:A855F7&text=AuroreVgn&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Home%20Assistant%20%7C%20Open%20Source%20%7C%20France&descAlignY=62&descSize=17&animation=fadeIn" alt="AuroreVgn — Home Assistant, Open Source, France" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
-
-**Home Assistant · Open Source · France**
 
 </div>
 
@@ -51,7 +49,7 @@
 ## 📈 Statistiques GitHub / GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AuroreVgn&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&border_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=AuroreVgn&theme=github-dark-blue&hide_border=true&background=00000000&border=00000000" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AuroreVgn&show_icons=true&hide_border=true&bg_color=00000000&border_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=AuroreVgn&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=9CA3AF&dates=9CA3AF&sideNums=C084FC&currStreakNum=C084FC" alt="GitHub streak" />
 </div>
 
