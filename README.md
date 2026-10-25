@@ -20,13 +20,15 @@
 
 ## 🏠 Mes projets / My projects
 
-| Projet / Project | Fonction / Purpose | Dépôt / Repository |  Carte Lovelace / Lovelave card |
+| Projet | Description FR / EN | Intégration | Carte Lovelace |
 |---|---|---|---|
-| 🔐 Somfy Protexial & Protexiom | Contrôle local des alarmes / Local alarm control | [Somfy](https://github.com/AuroreVgn/somfy-protexial) | par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card)|
-| 🥕 Quitoque | Recettes et calendrier / Recipes and calendar | [Quitoque](https://github.com/AuroreVgn/quitoque) | [Quitoque](https://github.com/AuroreVgn/quitoque_card) |
-| 🐠 JBL ProScan | Analyses de l'eau / Water testing | [JBL ProScan](https://github.com/AuroreVgn/JBL_ProScan) | [JBL](https://github.com/AuroreVgn/JBL_ProScan_card) |
-| ⚡ EDF Zen Flex | Tarifs et calendrier / Electricity tariffs | [EDF Zen Flex](https://github.com/AuroreVgn/edf-zen-flex) | [EDF](https://github.com/AuroreVgn/edf-zen-flex-card) |
-| 📊 WiFiTIC | Compteur Linky MQTT/REST / Linky meter | [WiFiTIC](https://github.com/AuroreVgn/wifiTIC) | [WiFiTIC](https://github.com/AuroreVgn/wifiTIC_card) |
+| 🔐 **Somfy Protexial & Protexiom** | Contrôle local des alarmes / Local alarm control | [GitHub](https://github.com/AuroreVgn/somfy-protexial) | [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card) |
+| 🥕 **Quitoque** | Recettes et calendrier / Recipes and calendar | [GitHub](https://github.com/AuroreVgn/quitoque) | [GitHub](https://github.com/AuroreVgn/quitoque_card) |
+| 🐠 **JBL ProScan** | Analyses de l'eau / Water testing | [GitHub](https://github.com/AuroreVgn/JBL_ProScan) | [GitHub](https://github.com/AuroreVgn/JBL_ProScan_card) |
+| ⚡ **EDF Zen Flex** | Tarifs et calendrier / Electricity tariffs | [GitHub](https://github.com/AuroreVgn/edf-zen-flex) | [GitHub](https://github.com/AuroreVgn/edf-zen-flex-card) |
+| 📊 **WiFiTIC** | Compteur Linky MQTT/REST / Linky meter | [GitHub](https://github.com/AuroreVgn/wifiTIC) | [GitHub](https://github.com/AuroreVgn/wifiTIC_card) |
+
+*La carte Lovelace Somfy est développée par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy Lovelace card is developed by developpeurbox.*
 
 
 ## 🤝 Contributions / Contributions
