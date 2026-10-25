@@ -48,16 +48,6 @@
 
 *La carte Lovelace Somfy est développée par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy Lovelace card is developed by developpeurbox.*
 
-
-## 🤝 Contributions / Contributions
-
-- 🤖 [Husqvarna Automower Python](https://github.com/Li0nc0/husqvarna-automower-python) — co-autrice / co-author
-- 🛒 [HOLM MyMenu](https://github.com/kaaribou/holm-mymenu/pull/8) — listes de courses, Telegram, calendriers / shopping lists, Telegram, calendars
-- 🌿 [AtmoFrance](https://github.com/sebcaps/atmofrance/pull/68) — corrections / fixes
-- 🚆 [SNCF API HA](https://github.com/Master13011/SNCF-API-HA) — améliorations de la carte Lovelace / Lovelace card improvements
-- 🔐 [Somfy Protexial & Protexiom Lovelace Card](https://github.com/developpeurbox/somfy-protexial-card/pull/10) — contribution communautaire / community contribution
-
-
 ## 📈 Statistiques GitHub / GitHub stats
 
 <div align="center">
