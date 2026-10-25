@@ -2,13 +2,11 @@
 
 # 👋 Bonjour, je suis Aurore ! / Hi, I'm Aurore!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=116B71&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
 
 **Home Assistant · Open Source · France**
 
 [![Mes projets sur erra.me](https://img.shields.io/badge/🌐_MES_PROJETS-ERRA.ME-0B1220?style=for-the-badge&labelColor=0B1220&color=38BDF8)](https://erra.me)
-[![GitHub](https://img.shields.io/badge/GitHub-AuroreVgn-181717?style=for-the-badge&logo=github)](https://github.com/AuroreVgn)
-[![Ko-fi](https://img.shields.io/badge/Soutenir-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi)](https://ko-fi.com/aurorevgn)
 
 </div>
 
@@ -18,17 +16,13 @@
 
 **EN:** I develop Home Assistant integrations and Lovelace cards to connect devices, simplify everyday tasks and extend the life of existing hardware.
 
-## 🌐 Découvrir mes projets sur erra.me / Explore my projects
+## 🌐 erra.me — Mes projets / My projects
 
 <div align="center">
 
-### [🏠 erra.me — Home Assistant & Smart Home Projects](https://erra.me)
+[![Découvrir mes intégrations et contributions](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-ERRA.ME-116B71?style=for-the-badge&labelColor=0B1220)](https://erra.me)
 
-[![Découvrir mes intégrations et contributions](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-INTÉGRATIONS_•_CARTES_•_CONTRIBUTIONS-38BDF8?style=for-the-badge&labelColor=0B1220&color=116B71)](https://erra.me)
-
-**FR :** Retrouvez toutes mes intégrations, cartes Lovelace, contributions et leurs actualités sur **[erra.me](https://erra.me)**.
-
-**EN:** Discover all my integrations, Lovelace cards, contributions and project updates on **[erra.me](https://erra.me)**.
+*Intégrations, cartes Lovelace et contributions / Integrations, Lovelace cards and contributions*
 
 </div>
 
@@ -65,7 +59,6 @@
 - 🚆 [SNCF API HA](https://github.com/Master13011/SNCF-API-HA) — améliorations de la carte Lovelace / Lovelace card improvements
 - 🔐 [Somfy Protexial & Protexiom Lovelace Card](https://github.com/developpeurbox/somfy-protexial-card/pull/10) — contribution communautaire / community contribution
 
-[Voir toutes mes contributions / View all contributions](https://erra.me/#contributions)
 
 ## 📈 Statistiques GitHub / GitHub stats
 
@@ -74,10 +67,3 @@
 <img height="165" src="https://streak-stats.demolab.com?user=AuroreVgn&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
----
-
-<div align="center">
-
-[🌐 erra.me](https://erra.me) · [☕ Soutenir / Support](https://ko-fi.com/aurorevgn)
-
-</div>
