@@ -6,8 +6,6 @@
 
 **Home Assistant · Open Source · France**
 
-[![Mes projets sur erra.me](https://img.shields.io/badge/🌐_MES_PROJETS-ERRA.ME-A855F7?style=for-the-badge&labelColor=241334&color=A855F7)](https://erra.me)
-
 </div>
 
 ## 🇫🇷 À propos / 🇬🇧 About
