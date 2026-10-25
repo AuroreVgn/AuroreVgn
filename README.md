@@ -20,17 +20,14 @@
 
 ## 🏠 Mes projets / My projects
 
-| Projet / Project | Fonction / Purpose | Dépôt / Repository |
-|---|---|---|
-| 🔐 Somfy Protexial & Protexiom | Contrôle local des alarmes / Local alarm control | [Somfy](https://github.com/AuroreVgn/somfy-protexial) |
-| 🥕 Quitoque | Recettes et calendrier / Recipes and calendar | [Quitoque](https://github.com/AuroreVgn/quitoque) |
-| 🐠 JBL ProScan | Analyses de l'eau / Water testing | [JBL ProScan](https://github.com/AuroreVgn/JBL_ProScan) |
-| ⚡ EDF Zen Flex | Tarifs et calendrier / Electricity tariffs | [EDF Zen Flex](https://github.com/AuroreVgn/edf-zen-flex) |
-| 📊 WiFiTIC | Compteur Linky MQTT/REST / Linky meter | [WiFiTIC](https://github.com/AuroreVgn/wifiTIC) |
+| Projet / Project | Fonction / Purpose | Dépôt / Repository |  Carte Lovelace / Lovelave card |
+|---|---|---|---|
+| 🔐 Somfy Protexial & Protexiom | Contrôle local des alarmes / Local alarm control | [Somfy](https://github.com/AuroreVgn/somfy-protexial) | par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card)|
+| 🥕 Quitoque | Recettes et calendrier / Recipes and calendar | [Quitoque](https://github.com/AuroreVgn/quitoque) | [Quitoque](https://github.com/AuroreVgn/quitoque_card) |
+| 🐠 JBL ProScan | Analyses de l'eau / Water testing | [JBL ProScan](https://github.com/AuroreVgn/JBL_ProScan) | [JBL](https://github.com/AuroreVgn/JBL_ProScan_card) |
+| ⚡ EDF Zen Flex | Tarifs et calendrier / Electricity tariffs | [EDF Zen Flex](https://github.com/AuroreVgn/edf-zen-flex) | [EDF](https://github.com/AuroreVgn/edf-zen-flex-card) |
+| 📊 WiFiTIC | Compteur Linky MQTT/REST / Linky meter | [WiFiTIC](https://github.com/AuroreVgn/wifiTIC) | [WiFiTIC](https://github.com/AuroreVgn/wifiTIC_card) |
 
-**Cartes Lovelace / Lovelace cards :** [Quitoque](https://github.com/AuroreVgn/quitoque_card) · [JBL](https://github.com/AuroreVgn/JBL_ProScan_card) · [EDF](https://github.com/AuroreVgn/edf-zen-flex-card) · [WiFiTIC](https://github.com/AuroreVgn/wifiTIC_card)
-
-La carte Somfy est fournie par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy card is provided by [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card).
 
 ## 🤝 Contributions / Contributions
 
@@ -38,7 +35,7 @@ La carte Somfy est fournie par [developpeurbox](https://github.com/developpeurbo
 - 🛒 [HOLM MyMenu](https://github.com/kaaribou/holm-mymenu/pull/8) — listes de courses, Telegram, calendriers / shopping lists, Telegram, calendars
 - 🌿 [AtmoFrance](https://github.com/sebcaps/atmofrance/pull/68) — corrections / fixes
 - 🚆 [SNCF API HA](https://github.com/Master13011/SNCF-API-HA) — améliorations de la carte Lovelace / Lovelace card improvements
-- 🔐 [Somfy Lovelace Card](https://github.com/developpeurbox/somfy-protexial-card/pull/10) — contribution communautaire / community contribution
+- 🔐 [Somfy Protexial & Protexiom Lovelace Card](https://github.com/developpeurbox/somfy-protexial-card/pull/10) — contribution communautaire / community contribution
 
 [Voir toutes mes contributions / View all contributions](https://erra.me/#contributions)
 
