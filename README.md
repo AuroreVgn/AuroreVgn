@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:241334,50:6D28D9,100:A855F7&text=AuroreVgn&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Home%20Assistant%20%7C%20Open%20Source%20%7C%20France&descAlignY=62&descSize=17&animation=fadeIn" alt="AuroreVgn — Home Assistant, Open Source, France" />
+<img width="100%" src="assets/erra-banner-github.webp" alt="Maison connectée sous les aurores boréales — bannière erra.me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&width=550&lines=Home+Assistant+%26+Smart+Home;Open+Source+Contributor;Connected+home+projects" alt="Animated introduction" />
 
