@@ -44,10 +44,23 @@
 
 *La carte Lovelace Somfy est développée par [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card). / The Somfy Lovelace card is developed by [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card).*
 
+## 🤝 Contributions open source / Open-source contributions
+
+**FR :** Retrouvez mes contributions publiques aux projets GitHub, y compris dans des dépôts dont je ne suis pas propriétaire. Les liens ci-dessous présentent les demandes de fusion et les signalements que j'ai créés ; ils ne recensent pas nécessairement tous les commits ni les contributions privées.
+
+**EN:** Explore my public GitHub contributions, including work on repositories I do not own. The links below show pull requests and issues I have opened; they do not necessarily include every commit or private contribution.
+
+<div align="center">
+
+[![Pull requests](https://img.shields.io/badge/🔀_Pull_requests-Voir_/_View-A855F7?style=for-the-badge&labelColor=241334)](https://github.com/pulls?q=is%3Apr+author%3AAuroreVgn)
+[![Issues](https://img.shields.io/badge/🐛_Issues-Voir_/_View-A855F7?style=for-the-badge&labelColor=241334)](https://github.com/issues?q=is%3Aissue+author%3AAuroreVgn)
+
+</div>
+
 ## 📈 Statistiques GitHub / GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AuroreVgn&show_icons=true&hide_border=true&bg_color=00000000&border_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AuroreVgn&show_icons=true&hide_border=true&bg_color=00000000&border_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=AuroreVgn&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=9CA3AF&dates=9CA3AF&sideNums=C084FC&currStreakNum=C084FC" alt="GitHub streak" />
 </div>
 
