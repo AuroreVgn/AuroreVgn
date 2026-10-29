@@ -48,7 +48,7 @@
 
 **FR :** Retrouvez mes contributions publiques aux projets GitHub, y compris dans des dépôts dont je ne suis pas propriétaire. Les liens ci-dessous présentent les demandes de fusion et les signalements que j'ai créés ; ils ne recensent pas nécessairement tous les commits ni les contributions privées.
 
-**EN:** Explore my public GitHub contributions, including work on repositories I do not own. The links below show pull requests and issues I have opened; they do not necessarily include every commit or private contribution.
+**EN :** Explore my public GitHub contributions, including work on repositories I do not own. The links below show pull requests and issues I have opened; they do not necessarily include every commit or private contribution.
 
 <div align="center">
 
