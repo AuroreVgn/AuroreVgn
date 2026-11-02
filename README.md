@@ -36,7 +36,7 @@
 
 | Projet | Description FR / EN | Intégration | Carte Lovelace | Documentation |
 |---|---|---|---|---|
-| 🔐 **Somfy Protexial & Protexiom** | Contrôle local des alarmes / Local alarm control | [GitHub](https://github.com/AuroreVgn/somfy-protexial) | [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card) | [Wiki](https://github.com/AuroreVgn/somfy-protexial/wiki) / [Forum HACF](https://forum.hacf.fr/t/integration-custom-centrale-somfy-protexial/23589) |
+| 🔐 **Somfy Protexial & Protexiom** | Contrôle local des alarmes / Local alarm control | Inclus dans HACS / HACS included / [GitHub](https://github.com/AuroreVgn/somfy-protexial) | [developpeurbox](https://github.com/developpeurbox/somfy-protexial-card) | [Wiki](https://github.com/AuroreVgn/somfy-protexial/wiki) / [Forum HACF](https://forum.hacf.fr/t/integration-custom-centrale-somfy-protexial/23589) |
 | 🥕 **Quitoque** | Recettes et calendrier / Recipes and calendar | [GitHub](https://github.com/AuroreVgn/quitoque) | [GitHub](https://github.com/AuroreVgn/quitoque_card) | [Forum HACF](https://forum.hacf.fr/t/integration-quitoque-box-a-cuisiner/83117) |
 | 🐠 **JBL ProScan** | Analyses de l'eau / Water testing | [GitHub](https://github.com/AuroreVgn/JBL_ProScan) | [GitHub](https://github.com/AuroreVgn/JBL_ProScan_card) | [Forum HACF](https://forum.hacf.fr/t/integration-jbl-proscan-test-deau-pour-aquariums-et-bassins/83118) |
 | ⚡ **EDF Zen Flex** | Tarifs et calendrier / Electricity tariffs | [GitHub](https://github.com/AuroreVgn/edf-zen-flex) | [GitHub](https://github.com/AuroreVgn/edf-zen-flex-card) | [Forum HACF](https://forum.hacf.fr/t/gestion-jours-sobriete-edf-zen-flex-dans-ha/34944/18) |
